@@ -21,14 +21,7 @@ Building production-ready AI systems & exploring research ideas in my free time.
 - 🧪 Enjoys turning research ideas into experiments, and experiments into usable tools
 - 🛠 Experienced with designing, implementing, and maintaining **end-to-end intelligent systems**, from architecture to production
 - 🌱 Always improving my engineering skills: clean code, logging, monitoring, and deployment
-
----
-
-## 🚀 Current Work
-
-- **ALPR Platform**: real-time license-plate recognition for factory vehicle monitoring, with multi-camera streaming, traffic analytics, and video recording with cloud archival (YOLO11, ONNX Runtime, RTSP, FFmpeg)
-- **GPU Support Chat Backend**: conversational AI backend with session management, persistent chat history, tool-based retrieval, and real-time SSE responses, using cloud/on-premise LLMs (Qwen)
-
+  
 ---
 
 ## 📄 Publication
